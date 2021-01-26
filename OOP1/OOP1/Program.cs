@@ -21,6 +21,9 @@ namespace OOP1
                 UnitPrice=35
             };
 
+            ProductManager productManager = new ProductManager();
+
+            productManager.Add(product2);
             Console.WriteLine("Hello World!");
         }
     }
