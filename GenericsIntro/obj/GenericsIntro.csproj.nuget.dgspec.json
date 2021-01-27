@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leyla\\Desktop\\KampIntro\\OOP1\\GenericsIntro\\GenericsIntro.csproj": {}
+    "C:\\Users\\leyla\\Desktop\\KampIntro\\GenericsIntro\\GenericsIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leyla\\Desktop\\KampIntro\\OOP1\\GenericsIntro\\GenericsIntro.csproj": {
+    "C:\\Users\\leyla\\Desktop\\KampIntro\\GenericsIntro\\GenericsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leyla\\Desktop\\KampIntro\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
+        "projectUniqueName": "C:\\Users\\leyla\\Desktop\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
         "projectName": "GenericsIntro",
-        "projectPath": "C:\\Users\\leyla\\Desktop\\KampIntro\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
+        "projectPath": "C:\\Users\\leyla\\Desktop\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
         "packagesPath": "C:\\Users\\leyla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leyla\\Desktop\\KampIntro\\OOP1\\GenericsIntro\\obj\\",
+        "outputPath": "C:\\Users\\leyla\\Desktop\\KampIntro\\GenericsIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leyla\\AppData\\Roaming\\NuGet\\NuGet.Config",
