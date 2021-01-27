@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP2
 {
-    class Customer
+    class IndividualCustomer
     {
         public int Id { get; set; }
         public string MusteriNo { get; set; }
@@ -13,10 +13,7 @@ namespace OOP2
 
         public string Soyadi { get; set; }
 
-        public string SirketAdi { get; set; }
-
         public string TcNo { get; set; }
 
-        public string VergiNo { get; set; }
     }
 }
