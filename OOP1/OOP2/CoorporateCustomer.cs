@@ -4,10 +4,10 @@ using System.Text;
 
 namespace OOP2
 {
-    class CoorporateCustomer
+
+    //inheritance
+    class CoorporateCustomer :Customer
     {
-        public int Id { get; set; }
-        public string MusteriNo { get; set; } 
         public string SirketAdi { get; set; }
         public string VergiNo { get; set; }
     }

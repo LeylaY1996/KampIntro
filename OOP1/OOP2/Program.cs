@@ -6,15 +6,16 @@ namespace OOP2
     {
         static void Main(string[] args)
         {
-            Customer musteri1 = new Customer();
-            musteri1.Adi = "Leyla";
-            musteri1.Id = 1;
-            musteri1.MusteriNo = "2222222";
-            musteri1.TcNo = "1234343";
-            musteri1.SirketAdi = "?";
+            IndividualCustomer customer1 = new IndividualCustomer();
+            customer1.MusteriNo = "12345";
+            customer1.Adi = "leyla";
+            customer1.Soyadi = "yılmaz";
+            customer1.TcNo = "12345678";
 
-            //gercek-tüzel müşteri
-            Console.WriteLine("Hello World!");
+            CoorporateCustomer customer2 = new CoorporateCustomer();
+            customer2.SirketAdi = "Kodlama";
+            customer2.MusteriNo = "123434";
+            customer2.VergiNo = "123456789";
         }
     }
 }
