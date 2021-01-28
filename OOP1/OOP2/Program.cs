@@ -16,6 +16,8 @@ namespace OOP2
             customer2.SirketAdi = "Kodlama";
             customer2.MusteriNo = "123434";
             customer2.VergiNo = "123456789";
+
+
         }
     }
 }
