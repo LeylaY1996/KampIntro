@@ -14,7 +14,10 @@ namespace OOP3
 
         public void KrediOnBilgilendirmesi(List<ICreditManager> krediler)
         {
-
+             foreach(var kredi in krediler)
+            {
+                kredi.calculate();
+            }
         }
     }
 }
