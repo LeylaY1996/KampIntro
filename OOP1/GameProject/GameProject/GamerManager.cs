@@ -18,9 +18,12 @@ namespace GameProject
         {
             if (_userValidationService.Validate(gamer) == true)
             {
-
-            }
             Console.WriteLine("Kayıt oldu.");
+            }
+            else
+            {
+                Console.WriteLine("Doğrulama başarısız.Kayıt başarısız.");
+            }
         }
 
         public void Delete(Gamer gamer)

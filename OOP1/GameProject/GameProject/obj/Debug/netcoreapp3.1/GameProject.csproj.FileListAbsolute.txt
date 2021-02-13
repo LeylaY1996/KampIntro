@@ -1,0 +1,13 @@
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\leyla\Desktop\KampIntro\OOP1\GameProject\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
